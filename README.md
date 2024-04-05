@@ -1,4 +1,4 @@
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/660bc07eda1671f986fef66a?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/660bc07eda1671f986fef66a?variant=light)](https://roadmap.sh)
 
 [![kazusa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kazusa3e)](https://github.com/anuraghazra/github-readme-stats)
 
